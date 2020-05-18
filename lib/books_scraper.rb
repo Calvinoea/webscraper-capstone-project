@@ -1,3 +1,4 @@
+# lib/books_scraper.rb
 require 'nokogiri'
 require 'open-uri'
 require 'json'
